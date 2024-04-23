@@ -1,0 +1,30 @@
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "T-Shirt",
+        "price": 25.99,
+        "description": "A comfortable and stylish T-Shirt"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Coffee Mug",
+        "price": 12.50,
+        "description": "The perfect mug for your morning coffee"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 3,
+      "fields": {
+        "name": "Laptop Case",
+        "price": 49.99,
+        "description": "Protect your laptop in style"
+      }
+    }
+]
+  
